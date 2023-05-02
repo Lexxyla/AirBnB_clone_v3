@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Nima Adan - [Github](https://github.com/nima-umaima) 
-Onye Ebube - [Github](https://github.com/OnyeEbube)
+Princess Okonta - [Github](https://github.com/OnyeEbube)
 
 ## License
 Public Domain. No copyright protection. 
